@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// code van https://www.youtube.com/watch?v=o9l699x_qZM&ab_channel=Zarriix
 public class Movement : MonoBehaviour
 {
     [SerializeField] float thrusterForce = 10f;
